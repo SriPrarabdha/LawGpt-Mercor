@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain== 0.0.142
+pinecone-client
+pinecone-text==0.4.2
+google-search-results
+openai
+urllib3==1.26.15
+nltk
